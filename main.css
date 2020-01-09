@@ -1,0 +1,23 @@
+img{
+height: 100px;
+width: 75px;
+}
+td{
+    width: 25vw;
+}
+
+.form{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color:whitesmoke;
+}
+
+.box{
+    width:20vw;
+    padding-top: 20vh;
+    padding-right: 20vh;
+    padding-left: 20vh;
+}
